@@ -105,5 +105,7 @@ class NW_SeqAllignAlg {
         pw.println(a1.reverse().toString());
         pw.println(a2.reverse().toString());
         pw.flush();
+        br.close()l
+        pw.close();
     }
 }
